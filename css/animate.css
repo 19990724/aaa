@@ -1,4 +1,4 @@
-h2{font:1.1rem "ËÎÌå";color:white;text-align: center;-webkit-animation: move 3s linear;
+h2{font:1.1rem "å®‹ä½“";color:white;text-align: center;-webkit-animation: move 3s linear;
     -o-animation: move 3s linear;
     animation: move 3s linear;}
 @keyframes move {
@@ -6,7 +6,7 @@ h2{font:1.1rem "ËÎÌå";color:white;text-align: center;-webkit-animation: move 3s 
     100%{transform:translate(0rem);}
 }
 .hq{width:150px;height:120px;}
-/*ÎªÒôÀÖÍ¼±êÌí¼ÓÑùÊ½*/
+/*ä¸ºéŸ³ä¹å›¾æ ‡æ·»åŠ æ ·å¼*/
 .music_ani{
     animation: music_ani_k 3s linear infinite;
 }
@@ -14,8 +14,8 @@ h2{font:1.1rem "ËÎÌå";color:white;text-align: center;-webkit-animation: move 3s 
     0%{}
     100%{transform:rotateZ(360deg);}
 }
-/*´ó¼ÒºÃ*/
-h5{font:0.6rem "ËÎÌå";text-align: center;color:green;padding-top:30px;padding-left:110px;
+/*å¤§å®¶å¥½*/
+h5{font:0.6rem "å®‹ä½“";text-align: center;color:green;padding-top:30px;padding-left:110px;
     -webkit-animation: move_1 3s linear;
     -o-animation: move_1 3s linear;
     animation: move_1 3s linear;opacity: 0;animation-fill-mode: both;}
@@ -23,25 +23,25 @@ h5{font:0.6rem "ËÎÌå";text-align: center;color:green;padding-top:30px;padding-le
     0%{transform: scale(4);opacity: 0;}
     100%{transform: scale(1);opacity: 1;}
 }
-/*ĞÕÃû*/
-.xing{font:0.7rem "»ªÎÄĞĞ¿¬ bold";color:pink;position: absolute;left:35%;margin-left:-0.8rem;top:3.5rem; -webkit-animation: move_2 4s 2s linear;
+/*å§“å*/
+.xing{font:0.7rem "åæ–‡è¡Œæ¥· bold";color:pink;position: absolute;left:35%;margin-left:-0.8rem;top:3.5rem; -webkit-animation: move_2 4s 2s linear;
     -o-animation: move_2 4s 2s linear;
     animation: move_2 4s 2s linear;opacity: 0;animation-fill-mode: both;}
 @keyframes move_2 {
     0%{transform: rotate(0deg);opacity: 0;}
     100%{transform: rotate(360deg);opacity: 1;}
 }
-.lai{font:0.5rem "ËÎÌå";color:blue;position: absolute;left:40%;margin-left:-0.59rem;top:6.5rem; -webkit-animation: move_03 5s 5s linear;
+.lai{font:0.5rem "å®‹ä½“";color:blue;position: absolute;left:40%;margin-left:-0.59rem;top:6.5rem; -webkit-animation: move_03 5s 5s linear;
     -o-animation: move_03 4s 4s linear;
     animation: move_03 4s 4s linear;opacity: 0;animation-fill-mode: both;}
-.lai_2{font:0.5rem "ËÎÌå";color:yellow;position: absolute;left:32%;margin-left:-0.72rem;top:7.6rem; -webkit-animation: move_03 5s 5s linear;
+.lai_2{font:0.5rem "å®‹ä½“";color:yellow;position: absolute;left:32%;margin-left:-0.72rem;top:7.6rem; -webkit-animation: move_03 5s 5s linear;
     -o-animation: move_03 5s 5s linear;
     animation: move_03 5s 5s linear;opacity: 0;animation-fill-mode: both;}
 @keyframes move_03 {
     0%{transform: translateX(6rem);opacity: 0;}
     100%{transform: translateX(0);opacity: 1;}
 }
-.sr{font:0.6rem "ËÎÌå";color:white;position: absolute;left:30%;margin-left:-0.6rem;top:5rem; -webkit-animation: move_4 6s 3s linear;
+.sr{font:0.6rem "å®‹ä½“";color:white;position: absolute;left:30%;margin-left:-0.6rem;top:5rem; -webkit-animation: move_4 6s 3s linear;
     -o-animation: move_4 6s 3s linear;
     animation: move_4 6s 3s linear;opacity: 0;animation-fill-mode: both;}
 @keyframes move_4 {
@@ -49,20 +49,20 @@ h5{font:0.6rem "ËÎÌå";text-align: center;color:green;padding-top:30px;padding-le
     100%{transform: translateX(0);opacity: 1;}
 }
 
-h4{font:0.6rem "ËÎÌå";color:yellow;padding-top:80px;padding-left:30px;-webkit-animation: move_5 2s linear;
+h4{font:0.6rem "å®‹ä½“";color:yellow;padding-top:80px;padding-left:30px;-webkit-animation: move_5 2s linear;
     -o-animation: move_5 2s linear;
     animation: move_5 2s linear;opacity: 0;animation-fill-mode: both;}
 @keyframes move_5 {
     0%{transform: translateY(-7rem);opacity: 0;}
     100%{transform: translateY(0);opacity: 1;}
 }
-.ai{font:0.5rem "ËÎÌå";color:white;margin-top:10px;padding-left:10px; -webkit-animation: move_4 4s 2s linear;
+.ai{font:0.5rem "å®‹ä½“";color:white;margin-top:10px;padding-left:10px; -webkit-animation: move_4 4s 2s linear;
     -o-animation: move_4 4s 2s linear;
     animation: move_4 4s 2s linear;opacity: 0;animation-fill-mode: both;}
 @keyframes move_4 {
     0%{transform: translateX(-8rem);opacity: 0;}
     100%{transform: translateX(0);opacity: 1;}}
-/*µÚ¶şÒ³Í¼Æ¬*/
+/*ç¬¬äºŒé¡µå›¾ç‰‡*/
 .img_a,.img_b,.img_c{width:6.4rem;height:3.22rem;position: absolute;left:50%;margin-left:-3.2rem;top:0.26rem;
     -webkit-animation: move 3s linear;
     -o-animation: move 3s linear;
@@ -88,7 +88,7 @@ h4{font:0.6rem "ËÎÌå";color:yellow;padding-top:80px;padding-left:30px;-webkit-an
     -webkit-animation: move_9 1s linear;
     -o-animation: move_9 1s linear;
     animation: move_9 1s linear;}
-/*µÚÈıÒ³Í¼Æ¬*/
+/*ç¬¬ä¸‰é¡µå›¾ç‰‡*/
 .img_d{width:3.4rem;height:3.22rem;position: absolute;left:50%;margin-left:-3.2rem;top:0.26rem;
     -webkit-animation: move 3s linear;
     -o-animation: move 3s linear;
@@ -115,23 +115,23 @@ h4{font:0.6rem "ËÎÌå";color:yellow;padding-top:80px;padding-left:30px;-webkit-an
     0%{transform:translateX(3rem)}
     100%{transform:translateX(0rem)}
 }
-.zp{font:0.5rem "ËÎÌå";color:white;margin-top:0.5rem;padding-left:0.3rem; -webkit-animation: move_4 4s 2s linear;
+.zp{font:0.5rem "å®‹ä½“";color:white;margin-top:0.5rem;padding-left:0.3rem; -webkit-animation: move_4 4s 2s linear;
     -o-animation:move_4 4s 2s linear;
     animation: move_4 4s 2s linear;opacity: 0;animation-fill-mode: both;}
 @keyframes move_4 {
     0%{transform: translateX(-7rem);opacity: 0;}
     100%{transform: translateX(0);opacity: 1;}
 }
-.ming{font:0.5rem "ËÎÌå";color:#612801;margin-top:0.5rem;padding-left:0.3rem; -webkit-animation: move_4 7s 2s linear;
+.ming{font:0.5rem "å®‹ä½“";color:#612801;margin-top:0.5rem;padding-left:0.3rem; -webkit-animation: move_4 7s 2s linear;
     -o-animation: move_4 7s 2s linear;
     animation: move_4 7s 2s linear;opacity: 0;animation-fill-mode: both;}
 @keyframes move_4 {
     0%{transform: translateY(-7rem);opacity: 0;}
     100%{transform: translateY(0);opacity: 1;}
 }
-h3{font:0.8rem "ËÎÌå";color:wheat;text-align: center;padding-top: 0.4rem;}
+h3{font:0.8rem "å®‹ä½“";color:wheat;text-align: center;padding-top: 0.4rem;}
 .ping{width:5.5rem;color:papayawhip;margin:0 auto;
-    padding-top: 0.8rem;;font:0.4rem "ËÎÌå";-webkit-animation: move 3s linear;
+    padding-top: 0.8rem;;font:0.4rem "å®‹ä½“";-webkit-animation: move 3s linear;
     -o-animation: move 2s linear;
     animation: move 2s linear;}
 @keyframes move {
@@ -144,31 +144,31 @@ h3{font:0.8rem "ËÎÌå";color:wheat;text-align: center;padding-top: 0.4rem;}
 .xiexie{width:3.5rem;height:2.8rem;-webkit-animation: move_A 3s linear;
     -o-animation: move_A 3s linear;
     animation: move_A 3s linear;}
-.xie{font:0.8rem "ËÎÌå";color:red;margin:0 auto;padding-top:0.2rem;-webkit-animation: move_A 3s linear;
+.xie{font:0.8rem "å®‹ä½“";color:red;margin:0 auto;padding-top:0.2rem;-webkit-animation: move_A 3s linear;
     -o-animation: move_A 3s linear;
     animation: move_A 3s linear;}
 @keyframes move_A {
 0%{transform: rotate(0deg);opacity: 0;}
 100%{transform: rotate(360deg);opacity: 1.5;}
 }
-.tel{font:0.5rem "ËÎÌå";color:yellow;margin-top:0.2rem;padding-left:0.3rem; -webkit-animation: move_4 7s 2s linear;
+.tel{font:0.5rem "å®‹ä½“";color:yellow;margin-top:0.2rem;padding-left:0.3rem; -webkit-animation: move_4 7s 2s linear;
     -o-animation: move_4 4s 2s linear;
     animation: move_4 4s 2s linear;opacity: 0;animation-fill-mode: both;}
 @keyframes move_4 {
     0%{transform: translateX(-7rem);opacity: 0;}
     100%{transform: translateX(0);opacity: 1;}}
-.lianxi{font:0.6rem "ËÎÌå";margin-top:-3.6rem;color:black;text-align: center;-webkit-animation: move 3s linear;
+.lianxi{font:0.6rem "å®‹ä½“";margin-top:-3.6rem;color:black;text-align: center;-webkit-animation: move 3s linear;
     -o-animation: move 3s linear;
     animation: move 3s linear;}
 @keyframes move {
     0%{transform:translateX(4rem);opacity: 1;}
     100%{transform:translate(0rem);}
 }
-.erweima{width:3.5rem;margin-top:0.2rem;padding-left:1.2rem; -webkit-animation: move_4 4s 2s linear;
+.erweima{width:3.5rem;margin-top:2rem;padding-left:1.2rem; -webkit-animation: move_4 4s 2s linear;
     -o-animation: move_4 4s 2s linear;
     animation: move_4 4s 2s linear;opacity: 0;animation-fill-mode: both;}
 
-.xxx{font:1rem "ËÎÌå";color:white;margin-top:0.1rem;padding-left:0.5rem; -webkit-animation: move_X 2s 2s linear;
+.xxx{font:1rem "å®‹ä½“";color:white;margin-top:0.1rem;padding-left:0.5rem; -webkit-animation: move_X 2s 2s linear;
     -o-animation: move_X 2s 2s linear;
     animation: move_X 2s 2s linear;opacity: 0;animation-fill-mode: both;}
 @keyframes move_X {
